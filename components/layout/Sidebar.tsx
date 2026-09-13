@@ -9,6 +9,7 @@ const NAV_ITEMS = [
   { label: 'analytics', href: '/analytics' },
   { label: 'predictions', href: '/predictions' },
   { label: 'map', href: '/map' },
+  { label: 'terminal', href: '/terminal' },
 ];
 
 const LOWER_NAV = [
